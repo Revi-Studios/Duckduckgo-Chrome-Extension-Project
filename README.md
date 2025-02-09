@@ -1,6 +1,49 @@
-# Duckduckgo-Chrome-Extension-Project
-This is a chrome extension developed for those wanting a simple tab (new tab) designed after the duckduckgo browser (for mac).
+# Duckduckgo remake as a Chrome extension
+
+A simple chrome extension that mimics the simple design of the duckduckgo browser (for mac).
+
+## Getting Started
+
+* How to install and run your project.
+1. Download the project zip file.
+2. Extract the zip file.
+3. Go to the extensions page in chrome. 3 Dots -> Extensions -> Manage Extensions
+4. Turn on "Developer mode" (a toggle switch). 
+5. Click "Load unpacked" and choose the extracted folder.
+6. Once the extension is loaded, you good to go!
+7. Open a new tab
+
+* Any dependencies that your project requires.
+-You will need the chrome browser
+
+## Usage
+
+* How to use the project.
+1. Follow the installation process.
+2. Open a new tab by pressing:
+Ctrl + T (on Windows and ChromeOs) or
+Cmd + T (on Mac)
+
+* Screenshots:
+<table>
+  <tr>
+    <td><img width="100%" alt="Screenshot 2025-02-09 at 10 13 14" src="https://github.com/user-attachments/assets/4272c678-cc15-4db0-81dc-683a272b805b" /></td>
+    <td><img widht="100%" alt="Screenshot 2025-02-09 at 10 13 14" src="https://github.com/user-attachments/assets/04a46aae-f110-4d97-b60f-dd1c99faf836" /></td>
+  </tr>
+</table>
 
 
+<img width="80%" alt="Screenshot 2025-02-09 at 10 14 44" src="https://github.com/user-attachments/assets/4af16453-c01d-44ae-a1a9-29035ebd01dc" />
 
-![image](https://github.com/user-attachments/assets/c7070143-9d00-4e95-b414-df71a5586f04)
+
+## Contributing
+
+* How you can contribute to the project.
+-You can contact me if you have any cool ideas.
+-I would also be happy if someone maybe made some changes and wants to show what they have done :).
+
+## License
+
+* You can use this project where ever you want. Just be kind and give me, the creator a bit of credit (the link for the project).  
+
+
