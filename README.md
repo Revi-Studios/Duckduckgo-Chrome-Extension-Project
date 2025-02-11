@@ -9,9 +9,11 @@ A simple chrome extension that mimics the simple design of the duckduckgo browse
 2. Extract the zip file.
 3. Go to the extensions page in chrome. 3 Dots -> Extensions -> Manage Extensions
 4. Turn on "Developer mode" (a toggle switch). 
-5. Click "Load unpacked" and choose the extracted folder.
-6. Once the extension is loaded, you good to go!
-7. Open a new tab
+5. Drop the file (.crx) into the page (you might have to restart the page).
+6. A popup menu should appear asking you if you want to add the extension.
+7. Click "Add extension".
+8. In "Safety Check" -> 3 dots (next to the extensio) -> "keep this extension"
+9. Open a new tab
 
 * Any dependencies that your project requires.
 -You will need the chrome browser
