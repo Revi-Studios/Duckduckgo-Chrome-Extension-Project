@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Simple New Tab",
+  "version": "1.0",
+  "description": "A simple new tab page inspired by DuckDuckGo, with Google as the default search engine.",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "icons": {
+    "256": "/resources/images/duckduckgo.256.png"
+  },
+  "permissions": [
+    "bookmarks"
+  ]
+}

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>New Tab</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <!-- Customize Button -->
+    <button id="settings-button" class="settings-button">Customize</button>
+
+    <!-- Sliding Menu -->
+    <div id="customize-menu" class="customize-menu">
+      <h3>Theme Options</h3>
+      <div class="theme-buttons">
+        <button id="theme-dark">Dark Theme</button>
+        <button id="theme-blue">Blue Theme</button>
+      </div>
+      <hr>
+      <label>
+        <input type="checkbox" id="toggle-folders-checkbox"> Show Bookmarks
+      </label>
+    </div>
+    <!-- Icon above the search bar -->
+    <img src="/resources/images/duckduckgo.256.png" alt="Logo" class="logo" id="Image">
+    <h1>Search</h1>
+    <form id="search-form" action="https://www.google.com/search" method="GET">
+      <input type="text" name="q" id="search-input" placeholder="Search Google..." autofocus autocomplete="off">
+    </form>
+    <!-- Grid for bookmarks -->
+    <div class="bookmarks-grid" id="bookmarks-grid"></div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
